@@ -9,7 +9,7 @@ Authors@R: c(person("Alexios", "Galanos", role = c("aut", "cre"),
     person("Keith","O'Hara",role="ctb",
     email="kth.ohr@gmail.com"))
 Maintainer: Alexios Galanos <alexios@4dscape.com>
-Description: Datasets for ts packages.
+Description: Datasets for tsmodels packages.
 License: GPL-2
 Encoding: UTF-8
 LazyData: true
