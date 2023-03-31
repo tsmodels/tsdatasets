@@ -1,1 +1,4 @@
 exportPattern("^[[:alpha:]]+")
+import("data.table")
+importFrom("xts","xts")
+importFrom("zoo","coredata")
